@@ -122,6 +122,7 @@ display: flex;
 }
 .course-img img{
   width:224px ;
+  padding: 11px;
 }
 .course-info{
   display: flex;
